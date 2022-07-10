@@ -6,8 +6,10 @@ public class thaovuhan1 : MonoBehaviour
 {
     int a = 8;
     int b = 2;
+    
 
-    private void Start()
+
+    void Start()
     {
         if ((a + b) > 10)
         {
@@ -21,13 +23,9 @@ public class thaovuhan1 : MonoBehaviour
         {
             Debug.Log(a / b);
         }
-        else if ((a + b) < 10)
-        {
-            Debug.Log(a / b);
-        }
         else
         {
-            Debug.Log("ko in ra clol j ca");
+            Debug.Log("hip hop never die");
         }
 
 
