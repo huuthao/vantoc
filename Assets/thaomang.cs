@@ -37,7 +37,7 @@ public class thaomang : MonoBehaviour
             Ram = Truyennhangiulieu;
             Cpu = Epxung;
             Case = Tatmay;
-            Debug.Log("day la phuong thuc vler");
+            
         }
 
         ~PC()
